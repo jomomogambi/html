@@ -1,0 +1,57 @@
+body{
+    padding: 0;
+    background-image: url(download\ \(4\).jpg);
+    background-attachment: fixed;
+    image-orientation: unset;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#nav-bar ul li{
+    display: inline-flex;
+    list-style: none;
+    margin-inline-end: 200px;
+    margin-left: 150px;
+    position: top center;
+}
+.introduction{
+    font-style: italic;
+    font-display: flex;
+    color: blueviolet;
+}
+.midsection{
+    margin-left: 10px;
+    shape-image-threshold: calc(20*10);
+    display: inline-flexbox;
+    display: flex;
+    vertical-align: top;
+    background-color: pink;
+}
+.myprofession{
+    font-weight: bold;
+    font: 1em sans-serif;
+    font-size: large;
+}
+.projects{
+    display: inline;
+    position: center;
+    font-display: inherit;
+    background-color: #ec57ec;
+}
+.project-description{
+    margin-left: 200px;
+    shape-image-threshold: calc(20*10);
+    display: grid;
+}
+.footerContent{
+    margin-left: 0px;
+    shape-image-threshold: calc(20*10);
+    display: grid;
+    background-color: black;
+    color: silver;
+    margin-top: 10px;
+}
+.oje{
+    background-color: #ec57ec;
+}

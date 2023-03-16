@@ -1,0 +1,13 @@
+h1{
+    font: oblique;
+    color: blue;
+    size: 12cm;
+}
+body{
+    color: darkred;
+    font: unset;
+    background:chocolate;
+}
+.background{
+    color: midnightblue;
+}

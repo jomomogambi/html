@@ -1,0 +1,74 @@
+title{
+    font-display: auto;
+    color: darkolivegreen;
+}
+body{
+    padding: 0%;
+    background-image: url(lion.jpg);
+    background-attachment: fixed;
+    image-orientation: unset;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#nav-bar ul li{
+    display: inline-flex;
+    list-style: none;
+    margin-inline-end: 200px;
+    margin-left: 150px;
+    position: top center;
+}
+.nav-link{
+    font-style: italic;
+    display: inline-flex;
+    color: yellow;
+    font-size: large;
+}
+.product{
+    display: inline-flex;
+    margin-inline-end: 0;
+    margin-left: 50px;
+    color: black;
+}
+.btn{
+    color: rgb(153, 5, 5);
+    background-color: rgb(245, 190, 9);
+    font-family: 'Times New Roman', Times, serif;
+    size: 20%;
+}
+.img1{
+    display: stretch;
+}
+.grid{
+    font-size: large;
+    color: lavender;
+    background-color: black;
+}
+.head{
+    font-style: oblique;
+    flex-direction: unset;
+    color: peru;
+}
+.ex{
+    font-size: larger;
+    font-weight: bolder;
+    font-display: block;
+    color: goldenrod;
+}
+.foot{
+    background-color: goldenrod;
+    font-size: larger;
+    font-style: italic;
+    color-scheme: light;
+    color: black;
+}
+#purchase{
+    background-color: darkgray;
+    background-clip: padding-box;
+    padding: 20px;
+    margin-trim: none;
+}
+#list{
+    list-style: none;
+}

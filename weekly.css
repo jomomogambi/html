@@ -1,0 +1,90 @@
+.wee{
+    box-sizing: content-box;
+    padding-inline-start: inherit;
+    margin-block-start: auto;
+    border: thin;
+    background-color: azure;
+}
+.head{
+    font-size: large;
+    color: darkgrey;
+    content: icon;
+    box-sizing: content-box;
+    font-style: oblique;
+
+}
+.im1{
+    size: 5px;
+    width: 10%;
+    height: 10%;
+}
+.inlin{
+    display: inline-flex;
+    direction: ltr;
+    margin-inline:20px ;
+
+}
+.ht{
+    table-layout: auto;
+}
+.rodu{
+    font-size: xx-large;
+    text-shadow: thistle;
+    text-decoration-color: black;
+    color: black;
+}
+.lin{
+    display: inline-flex;
+    direction: ltr;
+    margin-left: 200px;
+}
+.int{
+    position: top;
+    font-style: italic;
+    margin-left: 40px;
+}
+.tho{
+    font-size: xx-large;
+    font-display: light;
+    color: black;
+    font-family: fantasy;
+}
+.net{
+    margin-inline: 30px;
+}
+.pee{
+    margin-inline: 80px;
+}
+.lu{
+    margin-inline: 20px;
+}
+.para{
+    display: inline-flex;
+    font-size: 60px;
+    direction: ltr;
+}
+.mi1{
+    width: 150px;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 5px;
+    margin-top: 100px;
+    margin-left: 0px;
+}
+th,td{
+    padding: 5px;
+    text-align: right;
+}
+.tb,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 5px;
+    margin-top: 450px;
+    margin-left: 1px
+}
+th,td{
+    padding: 5px;
+    text-align: right;
+}

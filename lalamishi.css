@@ -1,0 +1,12 @@
+h1{
+    font: italic;
+    color:"green";
+    size: unset;
+}
+body{
+    background: burlywood;
+    font: status-bar;
+    border: hotpink;
+    width: fit-content;
+    height: fit-content;
+}

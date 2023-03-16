@@ -1,0 +1,58 @@
+title{
+    font-display: auto;
+    color: darkolivegreen;
+}
+body{
+    background-color: lavenderblush;
+}
+.img1{
+    width: 300px;
+    font-display: fallback;
+}
+nav{
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.nav-bar li{
+    list-style: none;
+    display: flex;
+}
+.btn{
+    color: yellow;
+}
+.level{
+    border: 10px;
+    border-top: grey;
+    padding-top: 20px;
+    box-sizing: content-box;
+}
+#jomo ul{
+    list-style: none;
+    display: inline-flex;
+    
+}
+#jomo ul li{
+    width: 80px;
+    margin: 15px;
+    padding: 10px;
+    text-decoration: none;
+}
+.page-wrappe{
+    display: flex;
+    list-style: none;
+    justify-content: right;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-right: 10px;
+    padding-left:10px ;
+}
